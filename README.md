@@ -2,7 +2,11 @@
 <h3 align="center">Java Backend Developer at Fido-Biznes | Oracle PL/SQL Expert</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahmatillojurayev&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Oracle+PL%2FSQL+Expert;Spring+Boot+Specialist;FinTech+Solution+Architect" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahmatillojurayev&label=Profile%20views&color=0e75b6&style=flat-square" alt="visitor counter" />
 </p>
 
 - 🏢 I’m currently working at **Fido-Biznes** as a **Java Backend Developer**
