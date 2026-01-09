@@ -12,7 +12,7 @@
 - 🏢 I’m currently working at **Fido-Biznes** as a **Java Backend Developer**
 - ⚙️ Specialized in: **Java Enterprise Edition (Java EE)**, **Spring Framework**, and **Oracle PL/SQL**
 - 🚀 Developing complex banking and financial software solutions
-- 🧑‍💻 My Telegram channel: [@rahmatillo_jurayev_java](https://t.me/rahmatullohJurayev)
+- 🧑‍💻 My Telegram channel: [@rahmatillo_jurayev_java](https://t.me/rahmatullohJurayev94)
 - 📫 Contact me: **raxmatillojurayev94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
